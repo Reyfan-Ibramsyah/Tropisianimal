@@ -1,0 +1,60 @@
+.header {
+    background-image: url('../ASET/x1/pascal-muller-iSz0IMtulos-unsplash.png');
+    background-repeat: no-repeat;  
+}
+
+#text-body {
+    padding-top: 10px;
+}
+
+#nav-header-item{
+    margin-left: 15px;
+}
+
+
+#text-header {
+    padding:80px 120px 0px 0px;
+}
+
+
+.header-content{
+    margin-top: 150px;
+    margin-left: 20px;
+}
+
+#body{
+    background-image: url('../ASET/x1/juliana-castro-LdEZjO3wjqQ-unsplash.png');
+    background-repeat: no-repeat; 
+    margin-top: 50px;
+    padding-top: 40px;
+}
+
+#google-maps {
+    position: relative;
+    padding-bottom: 25%;
+    height: 0;
+    overflow: hidden;
+}
+
+#google-maps iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+
+#lingkaran{
+    width: 50px;
+    height: 50px;
+	border-radius: 100%;
+    padding:8px;
+    margin: auto;
+}
+
+p.ellipsis{
+  white-space: nowrap; 
+  overflow: hidden;
+  text-overflow: ellipsis; 
+}
